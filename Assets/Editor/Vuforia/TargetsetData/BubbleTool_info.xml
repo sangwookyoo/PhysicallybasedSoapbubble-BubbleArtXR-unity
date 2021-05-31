@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-12-16 12:42:45" name="Tube" targetId="a6ab556433a347d7abb189af47a4e9c6" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-12-16 16:44:51" name="SmallStraw" targetId="f2f4052408c04a4cb5ab72bf8ec82749" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-03-19 12:39:52" name="SmallHoop" targetId="49f71ddb4d094597bb1a920c077b3f19" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-03-19 13:34:08" name="Corn" targetId="5fc4427527f64ad796f29a6da541790b" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-12-16 16:29:26" name="BigStraw" targetId="926e87e3cb024374ba96b7e137a8cdee" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2012-01-02 08:21:58" name="BigHoop" targetId="feff7570ac714fd19fee24344b55534f" version="2.0" />
+  </TargetSet>
+</QCARInfo>
