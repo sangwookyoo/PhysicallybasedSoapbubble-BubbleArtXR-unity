@@ -41,6 +41,6 @@ VR HMD와 LEAP MOTION으로 도구선택과 핸드모션이 가능하며 햅틱�
 
 * This research was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (No. 2018R1D1A1B0704256613).
 
-### Copylight
+### Copyright
 
 * Xicom Lab., Sungkyul Univ.
