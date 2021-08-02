@@ -1,12 +1,10 @@
 # PhysicallybasedSoapbubble-BubbleArtXR-unity
 # 버블아트 XR 팹랩 재현을 위한 물리기반 시 · 촉각 렌더링
 
+------
 물리기반 비눗방울 렌더링으로 구현된 버블아트 팹랩 시스템입니다.
 VR HMD와 LEAP MOTION으로 도구선택과 핸드모션이 가능하며 햅틱반응과 바람센서로 생동감 있는 비눗방울을 느낄 수 있습니다.
 또한, 비눗방울 색상과 배경 콘텍스트를 변경할 수 있습니다.
-
-
-------
 
 ## 프로젝트 개요
 
@@ -43,4 +41,4 @@ VR HMD와 LEAP MOTION으로 도구선택과 핸드모션이 가능하며 햅틱�
 
 ### Copyright
 
-* Xicom Lab., Sungkyul Univ.
+* Xicom Lab, Sungkyul University.
