@@ -34,4 +34,4 @@ https://www.mdpi.com/2076-3417/11/7/3090
 This research was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (No. 2018R1D1A1B0704256613).
 
 ## ✔ License
-Copyright © 2021 Xicomlab, Sungkyul University.
+Copyright © 2021-present Xicomlab, Sungkyul University.
