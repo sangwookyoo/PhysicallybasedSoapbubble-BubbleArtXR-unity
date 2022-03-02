@@ -15,7 +15,7 @@
 https://youtu.be/4iWHxBW5bW4
 
 ## ⚙ Development Environment
- * OS : Windows 10
+ * OS : Windows 10 
  * Tool : Unity 3D 2019.3.5, 3ds Max 2015
  * SDK : Steam VR 1.13.10
  * Framework : Steam VR 2.6.0b4, Shader Graph 7.2.0
